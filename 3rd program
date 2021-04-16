@@ -1,0 +1,13 @@
+fun main() {
+    val word = "i"
+    printBorder(word)
+    println("Happy Birthday, Emmanuel!")
+    printBorder(word)
+}
+
+fun printBorder(word: String) {
+    repeat(23) {
+        print(word)
+    }
+    println()
+}
