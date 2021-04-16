@@ -1,0 +1,10 @@
+fun main() {
+    // Funtion printBorder()is a funtion that repets the same instrustions giving 
+    printBorder()
+    println("Happy Birthday, Jhansi!")
+    printBorder()
+}
+
+fun printBorder() {
+    println("Instructions")
+}
